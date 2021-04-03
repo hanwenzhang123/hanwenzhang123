@@ -21,7 +21,6 @@ I am a Software Developer with a full passion for technology and extensive knowl
 I am dedicated to combining both passions in Software Development and Human Development to design and develop user-friendly products that make people’s lives better, easier, and fuller:
 
 ➤ Master of Science in Software Development from Boston University'22
-
 ➤ Master of Social Work in Social Work from New York University'20
 
 👍🏻 HIGHLIGHTS
