@@ -5,12 +5,12 @@
 -->
 - 🔭 I’m currently working on ... Software Development
 - 🌱 I’m currently learning ... Python & Java
-- 👯 I’m looking to collaborate on ... Working on projects together
-- 🤔 I’m looking for help with ... Employment
+- 👯 I’m looking to collaborate on ... Project
+- 🤔 I’m looking for help with ... Opportunity
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... hz2070@nyu.edu
-- 😄 Pronouns: ... She/her/hers
-- ⚡ Fun fact: ... I am changing my career from social work to software development
+- 😄 Pronouns: ... She/Her/Hers
+- ⚡ Fun fact: ... I am changing my career from social work to software development.
 
 👩🏻‍WHO AM I?
 
