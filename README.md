@@ -21,6 +21,7 @@ I am a Software Developer with a full passion for technology and extensive knowl
 I am dedicated to combining both passions in Software Development and Human Development to design and develop user-friendly products that make people’s lives better, easier, and fuller:
 
 ➤ Master of Science in Software Development from Boston University'22
+
 ➤ Master of Social Work in Social Work from New York University'20
 
 👍🏻 HIGHLIGHTS
@@ -30,7 +31,8 @@ excellent communication√ interpersonal skills√ self-motivated√ driven√ r
 
 📚 TECH STACK
 
-➤Programming Languages: HTML 5; CSS 3; JavaScript ES6; DOM Manipulation; Command Line; Responsive Design; Flexbox; Bootstrap; Bulma; jQuery; AJAX, JSON, API’s, Node.js; React; Express;
+➤Programming Languages: 
+HTML 5; CSS 3; JavaScript ES6; DOM Manipulation; Command Line; Responsive Design; Flexbox; Bootstrap; Bulma; jQuery; AJAX, JSON, API’s, Node.js; React; Express;
 
 📧 CONTACT ME
 
