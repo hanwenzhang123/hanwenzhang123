@@ -32,5 +32,7 @@ excellent communication√ interpersonal skills√ self-motivated√ driven√ r
 
 📧 CONTACT ME
 I am truly looking forward to my next step in launching my career in software development.
+
 #OpenToWork! Contact me --> hz2070@nyu.edu
+
 Connect me on LinkedIn --> https://www.linkedin.com/in/hanwenzhang123/
