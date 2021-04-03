@@ -2,18 +2,17 @@
 
 <!--
 **hanwenzhang123/hanwenzhang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on ... Software Development
 - 🌱 I’m currently learning ... Python & Java
 - 👯 I’m looking to collaborate on ... Working on projects together
-- 🤔 I’m looking for help with ... Project
+- 🤔 I’m looking for help with ... Employment
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/her/hers
-- ⚡ Fun fact: ... I am a career changer, I was a social worker before coding.
--->
+- ⚡ Fun fact: ... I am changing my career from social work to software development
+
 
 👩🏻‍💻 WHO AM I?
 I am a Software Developer with a full passion for technology and extensive knowledge of computer programming and human behavior. I am looking to apply my creativity, analytical skills, problem-solving, critical thinking, and passion for innovation to the field of technology. For the past years, I've supported individuals in their growth as an educator and counselor. My background in understanding human behavior has instilled in me the knowledge and mindset to interact effectively with diverse individuals from all walks of life.
