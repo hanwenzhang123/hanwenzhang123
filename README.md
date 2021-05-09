@@ -25,19 +25,19 @@ I am dedicated to combining both passions in Software Development and Human Deve
 
 📚 TECH STACK
 
-➤Programming Languages:
+➤Programming Languages:<br>
 --- Python, Java, JavaScript<br>
-➤Web Development:
+➤Web Development:<br>
 --- Node.js, Express.js, React.js, Database ORM, Flask, RegEx<br>
-➤Front-End:
+➤Front-End:<br>
 --- HTML, CSS, DOM, Flexbox, Bootstrap, jQuery, AJAX, JSON<br>
-➤Server-Side:
+➤Server-Side:<br>
 --- Command-Line, REST APIs, CRUD, Authentication<br>
-➤Database:
+➤Database:<br>
 --- SQL, NoSQL, MongoDB, Oracle, SPSS, SQLAlchemy, PostgreSQL<br>
-➤Development Tool:
+➤Development Tool:<br>
 --- Git/GitHub, VS Code, Xcode, Chrome Dev Tool, TDD, Postman, Azure Data Studio<br>
-➤Software Platform:
+➤Software Platform:<br>
 --- Word, Excel, PPT, Power BI, Salesforce, Hubspot, Trello, LucidChart, WordPress<br>
 
 👍🏻 HIGHLIGHTS
