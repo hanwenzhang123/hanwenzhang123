@@ -14,26 +14,39 @@
 
 👩🏻‍WHO AM I?
 
-I am a Software Developer with a full passion for technology and extensive knowledge of computer programming and human behavior. I am looking to apply my creativity, analytical skills, problem-solving, critical thinking, and passion for innovation to the field of technology. For the past years, I've supported individuals in their growth as an educator and counselor. My background in understanding human behavior has instilled in me the knowledge and mindset to interact effectively with diverse individuals from all walks of life.
+I am an aspiring software developer and lifelong learner looking to apply my creativity, analytical skills, problem-solving, critical thinking, and passion for innovation to the field of technology.
 
 💻 MY MISSION
 
-I am dedicated to combining both passions in Software Development and Human Development to design and develop user-friendly products that make people’s lives better, easier, and fuller:
+I am dedicated to combining both passions in Software Development and Human Development to design and develop user-friendly software products that make people’s lives better, easier, and fuller:
 
 ➤ Master of Science in Software Development from Boston University'22 <br>
 ➤ Master of Social Work in Social Work from New York University'20
+
+📚 TECH STACK
+
+➤Programming Languages:
+--- Python, Java, JavaScript<br>
+➤Web Development:
+--- Node.js, Express.js, React.js, Database ORM, Flask, RegEx<br>
+➤Front-End:
+--- HTML, CSS, DOM, Flexbox, Bootstrap, jQuery, AJAX, JSON<br>
+➤Server-Side:
+--- Command-Line, REST APIs, CRUD, Authentication<br>
+➤Database:
+--- SQL, NoSQL, MongoDB, Oracle, SPSS, SQLAlchemy, PostgreSQL<br>
+➤Development Tool:
+--- Git/GitHub, VS Code, Xcode, Chrome Dev Tool, TDD, Postman, Azure Data Studio<br>
+➤Software Platform:
+--- Word, Excel, PPT, Power BI, Salesforce, Hubspot, Trello, LucidChart, WordPress<br>
 
 👍🏻 HIGHLIGHTS
 
 problem-solving√ creative-thinking√ lifelong-learning√ collaborative√ team-work√ 100% on-time√ <br>
 excellent communication√ interpersonal skills√ self-motivated√ driven√ reliable√ responsible√
 
-📚 TECH STACK
-
-➤Programming Languages: <br>
-HTML 5; CSS 3; JavaScript ES6; DOM Manipulation; Command Line; Responsive Design; Flexbox; Bootstrap; Bulma; jQuery; AJAX, JSON, API’s, Node.js; React; Express;
-
 📧 CONTACT ME
 
-#OpenToWork! Contact me --> hz2070@nyu.edu <br>
-Connect me on LinkedIn --> https://www.linkedin.com/in/hanwenzhang123/
+View my code on GitHub --> https://github.com/hanwenzhang123<br>
+#100DaysOfCode --> https://twitter.com/hanwenzhang123<br>
+#OpenToWork! Contact me --> hz2070@nyu.edu
