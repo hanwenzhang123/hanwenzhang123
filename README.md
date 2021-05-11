@@ -15,7 +15,7 @@
 👩🏻‍WHO AM I?
 
 I am an aspiring software developer and lifelong learner looking to apply my creativity, analytical skills, problem-solving, critical thinking, and passion for innovation to the field of technology.\
-[Know more about me!](hanwenzhang123.github.io/whoami)
+Know more about me! --> hanwenzhang123.github.io/whoami
 
 💻 MY MISSION
 
