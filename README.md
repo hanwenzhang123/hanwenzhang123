@@ -4,9 +4,9 @@
 **hanwenzhang123/hanwenzhang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on ... Software Development
-- 🌱 I’m currently learning ... Python & Java
-- 👯 I’m looking to collaborate on ... Project
-- 🤔 I’m looking for help with ... Opportunity
+- 🌱 I’m currently learning ... Java, C++, C#, Python, JavaScript
+- 👯 I’m looking to collaborate on ... Projects
+- 🤔 I’m looking for help with ... Opportunities
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
@@ -25,20 +25,20 @@ I am dedicated to combining both passions in Software Development and Human Deve
 
 📚 TECH STACK
 
-➤Programming Languages:<br>
---- Python, Java, JavaScript<br>
-➤Web Development:<br>
---- Node.js, Express.js, React.js, Database ORM, Flask, RegEx<br>
-➤Front-End:<br>
---- HTML, CSS, DOM, Flexbox, Bootstrap, jQuery, AJAX, JSON<br>
-➤Server-Side:<br>
---- Command-Line, REST APIs, CRUD, Authentication<br>
-➤Database:<br>
---- SQL, NoSQL, MongoDB, Oracle, SPSS, SQLAlchemy, PostgreSQL<br>
-➤Development Tool:<br>
---- Git/GitHub, VS Code, Xcode, Chrome Dev Tool, TDD, Postman, Azure Data Studio<br>
-➤Software Platform:<br>
---- Word, Excel, PPT, Power BI, Salesforce, Hubspot, Trello, LucidChart, WordPress<br>
+➤Programming Languages:/n
+--- Python, Java, JavaScript/n
+➤Web Development:/n
+--- Node.js, Express.js, React.js, Database ORM, Redux, Hooks/n
+--- HTML, CSS, DOM, Bootstrap, EJS, RegEx, jQuery, AJAX, JSON, Axios/n
+--- REST APIs, GraphQL, Cookie/Session, Authentication, Deployment/n
+--- Flask, SQLAlchemy/n
+➤Database:/n
+--- SQL, Oracle, MSSQL, MySQL, PostgreSQL, SQLite, Sequelize ORM/n
+--- NoSQL, MongoDB, Mongoose, Robo 3T/n
+➤Development Tool:/n
+--- Git/GitHub, Command-Line, Chrome Dev Tool, VS Code, IDE, TDD, Trello, Postman, Heroku/n
+➤Software Platform:/n
+--- Word, Excel, PPT, Power BI, Salesforce, Hubspot, SPSS, LucidChart, Tableau, WordPress/n
 
 👍🏻 HIGHLIGHTS
 
