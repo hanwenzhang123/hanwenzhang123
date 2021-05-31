@@ -27,16 +27,20 @@ I am dedicated to combining both passions in Software Development and Human Deve
 
 ➤Programming Languages:<br>
 --- Python, Java, JavaScript<br>
+
 ➤Web Development:<br>
 --- Node.js, Express.js, React.js, Database ORM, Redux, Hooks<br>
 --- HTML, CSS, DOM, Bootstrap, EJS, RegEx, jQuery, AJAX, JSON, Axios<br>
 --- REST APIs, GraphQL, Cookie/Session, Authentication, Deployment<br>
 --- SpringBoot, Flask, SQLAlchemy<br>
+
 ➤Database:<br>
 --- SQL, Oracle, MSSQL, MySQL, PostgreSQL, SQLite, Sequelize ORM<br>
 --- NoSQL, MongoDB, Mongoose, Robo 3T<br>
+
 ➤Development Tool:<br>
 --- Git/GitHub, Command-Line, Chrome Dev Tool, VS Code, IDE, TDD, Trello, Postman, Heroku<br>
+
 ➤Software Platform:<br>
 --- Word, Excel, PPT, Power BI, Salesforce, Hubspot, SPSS, LucidChart, Tableau, WordPress<br>
 
