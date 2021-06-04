@@ -32,7 +32,7 @@ I am dedicated to combining both passions in Software Development and Human Deve
 --- Node.js, Express.js, React.js, Database ORM, Redux, Hooks<br>
 --- HTML, CSS, DOM, Bootstrap, EJS, RegEx, jQuery, AJAX, JSON, Axios<br>
 --- REST APIs, GraphQL, Cookie/Session, Authentication, Deployment<br>
---- SpringBoot, Flask, SQLAlchemy<br>
+--- SpringBoot, Flask, SQLAlchemy, ASP.NET<br>
 
 ➤Database:<br>
 --- SQL, Oracle, MSSQL, MySQL, PostgreSQL, SQLite, Sequelize ORM<br>
