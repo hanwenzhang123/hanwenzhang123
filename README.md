@@ -5,7 +5,7 @@
 -->
 - 🔭 I’m currently working on ... Software Development
 - 🌱 I’m currently learning ... Java, C++, Python, JavaScript
-- 👯 I’m looking to collaborate on ... Projects
+- 👯 I’m looking to collaborate on ... Programming
 - 🤔 I’m looking for help with ... Opportunities
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... hz2070@nyu.edu
