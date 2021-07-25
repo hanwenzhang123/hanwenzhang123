@@ -52,5 +52,6 @@ excellent communication√ interpersonal skills√ self-motivated√ driven√ r
 📧 CONTACT ME
 
 View my code on GitHub --> https://github.com/hanwenzhang123<br>
+Read my writing on GitHub --> https://hanwenzhang123.medium.com/<br>
 #100DaysOfCode --> https://twitter.com/hanwenzhang123<br>
 #OpenToWork! Contact me --> hz2070@nyu.edu
