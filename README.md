@@ -26,13 +26,13 @@ I am dedicated to combining both passions in Software Development and Human Deve
 📚 TECH STACK
 
 ➤Programming Languages:<br>
---- Java, C++, Python, JavaScript<br>
+--- Java, JavaScript, Python, C++<br>
 
 ➤Web Development:<br>
---- Node.js, Express.js, React.js, Database ORM, Redux, Hooks<br>
+--- React.js, Node.js, Express.js, Mongoose, Redux, Hooks<br>
 --- HTML, CSS, DOM, Bootstrap, EJS, RegEx, jQuery, AJAX, JSON, Axios<br>
 --- REST APIs, GraphQL, Cookie/Session, Authentication, Deployment<br>
---- SpringBoot, Flask, SQLAlchemy, ASP.NET<br>
+--- SpringBoot, Flask, SQLAlchemy<br>
 
 ➤Database:<br>
 --- SQL, Oracle, MSSQL, MySQL, PostgreSQL, SQLite, Sequelize ORM<br>
