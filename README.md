@@ -18,10 +18,11 @@ I am a software engineer and lifelong learner looking to apply my creativity, an
 
 💻 MY MISSION
 
-I am dedicated to combining both passions in Software Development and Human Development to design and develop user-friendly software products that make people’s lives better, easier, and fuller:
+I am dedicated to combining both passions in Software Development and Human Development to solve technical problems while building and maintaining user-friendly products that make people’s lives better, easier, and fuller:
 
 ➤ Master of Science in Software Development from Boston University'22 <br>
-➤ Master of Social Work in Social Work from New York University'20
+➤ Master of Social Work in Social Work from New York University'20 <br>
+➤ Certificate of Computer Science from NYU Tandon School of Engineering'20
 
 📚 TECH STACK
 
@@ -29,20 +30,20 @@ I am dedicated to combining both passions in Software Development and Human Deve
 --- Java, JavaScript, Python, C++<br>
 
 ➤Web Development:<br>
---- React.js, Node.js, Express.js, Mongoose, Redux, Hooks<br>
---- HTML, CSS, DOM, Bootstrap, EJS, RegEx, jQuery, AJAX, JSON, Axios<br>
---- REST APIs, GraphQL, Cookie/Session, Authentication, Deployment<br>
---- SpringBoot, Flask, SQLAlchemy<br>
+--- React.js, Node.js, Express, Mongoose<br>
+--- HTML, CSS, DOM, Bootstrap, EJS, jQuery, JSON, Axios<br>
+--- REST APIs, Cookie/Session, Authentication, Deployment<br>
+--- Flask, SQLAlchemy, RegEx, UI/UX<br>
 
 ➤Database:<br>
---- SQL, Oracle, MSSQL, MySQL, PostgreSQL, SQLite, Sequelize ORM<br>
+--- SQL, Oracle, MSSQL, PostgreSQL, MySQL, SQLite<br>
 --- NoSQL, MongoDB, Mongoose, Robo 3T<br>
 
 ➤Development Tool:<br>
---- Git/GitHub, Command-Line, Chrome Dev Tool, VS Code, IDE, TDD, Trello, Postman, Heroku<br>
+--- Git/GitHub, Command-Line, Chrome Dev Tool, VS Code, TDD, AWS, Trello, Postman, Heroku<br>
 
 ➤Software Platform:<br>
---- Word, Excel, PPT, Power BI, Salesforce, Hubspot, SPSS, LucidChart, Tableau, WordPress<br>
+--- Word, Excel, PPT, Power BI, Salesforce, Hubspot, SPSS, UML, LucidChart, Tableau, WordPress<br>
 
 👍🏻 HIGHLIGHTS
 
