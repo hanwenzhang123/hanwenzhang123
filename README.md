@@ -30,7 +30,7 @@ I am dedicated to combining both passions in Software Development and Human Deve
 --- Java, JavaScript, Python, C++<br>
 
 ➤Web Development:<br>
---- React.js, Node.js, Express, Mongoose<br>
+--- React.js, Node.js, Express, Mongoose, Database ORM<br>
 --- HTML, CSS, DOM, Bootstrap, EJS, jQuery, JSON, Axios<br>
 --- REST APIs, Cookie/Session, Authentication, Deployment<br>
 --- Flask, SQLAlchemy, RegEx, UI/UX<br>
