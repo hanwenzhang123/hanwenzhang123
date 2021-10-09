@@ -4,7 +4,7 @@
 **hanwenzhang123/hanwenzhang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on ... Software Development
-- 🌱 I’m currently learning ... Java, JavaScript, Python, C++
+- 🌱 I’m currently learning ... JavaScript, Java, Python
 - 👯 I’m looking to collaborate on ... Programming
 - 🤔 I’m looking for help with ... Opportunities
 - 💬 Ask me about ... Anything
@@ -54,5 +54,4 @@ excellent communication√ interpersonal skills√ self-motivated√ driven√ r
 
 View my code on GitHub --> https://github.com/hanwenzhang123<br>
 Read my writing on Medium --> https://hanwenzhang123.medium.com<br>
-#100DaysOfCode --> https://twitter.com/hanwenzhang123<br>
 #OpenToWork! Contact me --> hz2070@nyu.edu
