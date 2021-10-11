@@ -27,7 +27,7 @@ I am dedicated to combining both passions in Software Development and Human Deve
 📚 TECH STACK
 
 ➤Programming Languages:<br>
---- JavaScript, Java, Python, C++<br>
+--- JavaScript, Java, Python<br>
 
 ➤Web Development:<br>
 --- React.js, Redux.js, Node, Express, Mongoose, Database ORM<br>
