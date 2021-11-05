@@ -20,7 +20,7 @@ I am a software engineer and lifelong learner looking to apply my creativity, an
 
 I am dedicated to combining both passions in Software Development and Human Development to solve technical problems while building and maintaining user-friendly products that make people’s lives better, easier, and fuller:
 
-➤ Master of Science in Software Development from Boston University'22 <br>
+➤ Master of Science in Software Development from Boston University'23 <br>
 ➤ Master of Social Work in Social Work from New York University'20 <br>
 ➤ Certificate of Computer Science from NYU Tandon School of Engineering'20
 
