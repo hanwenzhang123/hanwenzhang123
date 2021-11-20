@@ -3,14 +3,14 @@
 <!--
 **hanwenzhang123/hanwenzhang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m currently working on ... Software Development
-- 🌱 I’m currently learning ... JavaScript, React.js, Redux.js, Java, Python
-- 👯 I’m looking to collaborate on ... Programming
+- 🔭 I’m currently working on ... React JS Software Development
+- 🌱 I’m currently learning ... JavaScript, React.js, Redux.js, Node.js, Express.js, Java, Python
+- 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... Opportunities
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... I am changing my career from social work to software development.
+- ⚡ Fun fact: ... I was a Licensed Master Social Worker, then changed career becoming a Software Engineer.
 
 👩🏻‍WHO AM I?
 
@@ -27,17 +27,14 @@ I am dedicated to combining both passions in Software Development and Human Deve
 📚 TECH STACK
 
 ➤Programming Languages:<br>
---- JavaScript, Java, Python<br>
+--- JavaScript, Java, Python, HTML, CSS, SQL, MongoDB <br>
 
 ➤Web Development:<br>
---- React.js, Redux.js, Node, Express, Mongoose, Database ORM<br>
---- HTML, CSS, DOM, Bootstrap, EJS, jQuery, JSON, Axios<br>
---- REST APIs, Cookie/Session, Authentication<br>
---- Flask, SQLAlchemy, RegEx<br>
+--- React.js, Redux.js, Node.js, Express.js, Mongoose, Database ORM, JSON, Axios<br>
+--- REST APIs, Cookie/Session, Authentication, Bootstrap, EJS, jQuery, RegEx, Flask, SQLAlchemy<br>
 
 ➤Database:<br>
---- SQL, Oracle, MSSQL, PostgreSQL, MySQL, SQLite<br>
---- NoSQL, MongoDB, Mongoose, Robo 3T<br>
+--- Oracle, MSSQL, PostgreSQL, MySQL, SQLite, Robo 3T, MongoDB Compass<br>
 
 ➤Development Tool:<br>
 --- Git/GitHub, Command-Line, Chrome Dev Tool, Testing, Jest, UI/UX, AWS, Trello, Postman, Heroku<br>
