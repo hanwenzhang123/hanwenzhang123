@@ -5,12 +5,12 @@
 -->
 - 🔭 I’m currently working on ... Software Development
 - 🌱 I’m currently learning ... JavaScript, React.js, Redux.js, Node.js, Express.js, Mongoose, Java, Python
-- 👯 I’m looking to collaborate on ... Projects
-- 🤔 I’m looking for help with ... Opportunities
-- 💬 Ask me about ... Anything
+- 👯 I’m looking to collaborate on ... Projects and feedbacks
+- 🤔 I’m looking for help with ... Opportunities to grow and shine
+- 💬 Ask me about ... I am open to anything
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... I was a Licensed Master Social Worker, then changed career becoming a Software Engineer.
+- ⚡ Fun fact: ... I was a Licensed Master Social Worker, then changed career to become a Software Engineer, and very happy about the decision!
 
 👩🏻‍WHO AM I?
 
@@ -20,7 +20,7 @@ I am a software engineer and lifelong learner looking to apply my creativity, an
 
 I am dedicated to combining both passions in Software Development and Human Development to solve technical problems while building and maintaining user-friendly products that make people’s lives better, easier, and fuller:
 
-➤ Master of Science in Software Development from Boston University'23 <br>
+➤ Master of Science in Software Development from Boston University'22 <br>
 ➤ Master of Social Work in Social Work from New York University'20 <br>
 ➤ Certificate of Computer Science from NYU Tandon School of Engineering'20
 
