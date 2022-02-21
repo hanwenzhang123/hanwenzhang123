@@ -14,11 +14,15 @@
 
 👩🏻‍WHO AM I?
 
-I am a software engineer and lifelong learner looking to apply my creativity, analytical skills, problem-solving, critical thinking, and passion for innovation to the field of technology.
+I am Hanwen, a Software Engineer and Lifelong Learner looking to apply my creativity, analytical skills, problem-solving, critical thinking, and passion for innovation to the field of technology. 
 
-💻 MY MISSION
+💻 CURRENT WORK
 
-I am dedicated to combining both passions in Software Development and Human Development to solve technical problems while building and maintaining user-friendly products that make people’s lives better, easier, and fuller:
+I am currently working as a Software Engineer Contractor at Apple, Inc. creating software solutions that offer the best user experience, my main skill is in Javascript and its front-end framework React.js building user interfaces, using Node.js, Express.js, and Mongoose handling the back-end APIs, and working on data using SQL and MongoDB.
+
+🖥 MY MISSION
+
+Transitioning my social science background to computer science technologies, I am dedicated to combining both passions in software development and human development to influence the intersection of social impact and technology through solving technical problems and improving user-friendly software products that make people’s lives better, easier, and fuller:
 
 ➤ Master of Science in Software Development from Boston University'22 <br>
 ➤ Master of Social Work in Social Work from New York University'20 <br>
@@ -26,21 +30,27 @@ I am dedicated to combining both passions in Software Development and Human Deve
 
 📚 TECH STACK
 
-➤Programming Languages:<br>
---- JavaScript, Java, Python, HTML, CSS, SQL, MongoDB <br>
+➤Programming Languages: <br>
+--- JavaScript, Java, Python, PHP
 
-➤Web Development:<br>
---- React.js, Redux.js, Node.js, Express.js, Mongoose, Database ORM, JSON, Axios<br>
---- REST APIs, Cookie/Session, Authentication, Bootstrap, EJS, jQuery, RegEx, Flask, SQLAlchemy<br>
+➤Web Development: <br>
+--- React.js, Redux.js, Node.js, Express.js, Mongoose, Database ORM
+--- HTML, CSS, DOM, Bootstrap, EJS, Unistore, AJAX, JSON, Axios
+--- REST APIs, D3.js, RegEx, Jest, Enzyme
 
-➤Database:<br>
---- Oracle, MSSQL, PostgreSQL, MySQL, SQLite, Robo 3T, MongoDB Compass<br>
+➤SQL/NoSQL Database: <br>
+--- Oracle, MSSQL, PostgreSQL, MySQL, SQLite
+--- MongoDB, Mongoose, Robo 3T, MongoDB Compass
 
-➤Development Tool:<br>
---- Git/GitHub, Command-Line, Chrome Dev Tool, Testing, Jest, UI/UX, AWS, Trello, Postman, Heroku<br>
+➤Software Engineering: <br>
+--- Git/GitHub, Command-Line, DevOps, Docker, AWS, UML, SDLC, CI/CD, UI/UX
+--- Software Architecture, Design, QA, Testing, Deployment, Agile/SCRUM
 
-➤Software Platform:<br>
---- Word, Excel, PPT, Power BI, Salesforce, Citrix, Hubspot, Zoom, SPSS, WordPress, Wix, Slack<br>
+➤Development Tool:  <br>
+--- Chrome Dev Tool, VS Code, IDE, Zapier, Postman, Trello, Heroku, LucidChart, Tableau
+
+➤Software Platform: <br>
+--- Word, Excel, PPT, Power BI, Salesforce, Citrix, Hubspot, Zoom/Team, SPSS, WordPress
 
 👍🏻 HIGHLIGHTS
 
