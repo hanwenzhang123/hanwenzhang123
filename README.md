@@ -34,16 +34,16 @@ Transitioning my social science background to computer science technologies, I a
 --- JavaScript, Java, Python, PHP
 
 ➤Web Development: <br>
---- React.js, Redux.js, Node.js, Express.js, Mongoose, Database ORM
---- HTML, CSS, DOM, Bootstrap, EJS, Unistore, AJAX, JSON, Axios
+--- React.js, Redux.js, Node.js, Express.js, Mongoose, Database ORM <br>
+--- HTML, CSS, DOM, Bootstrap, EJS, Unistore, AJAX, JSON, Axios <br>
 --- REST APIs, D3.js, RegEx, Jest, Enzyme
 
 ➤SQL/NoSQL Database: <br>
---- Oracle, MSSQL, PostgreSQL, MySQL, SQLite
+--- Oracle, MSSQL, PostgreSQL, MySQL, SQLite <br>
 --- MongoDB, Mongoose, Robo 3T, MongoDB Compass
 
 ➤Software Engineering: <br>
---- Git/GitHub, Command-Line, DevOps, Docker, AWS, UML, SDLC, CI/CD, UI/UX
+--- Git/GitHub, Command-Line, DevOps, Docker, AWS, UML, SDLC, CI/CD, UI/UX <br>
 --- Software Architecture, Design, QA, Testing, Deployment, Agile/SCRUM
 
 ➤Development Tool:  <br>
