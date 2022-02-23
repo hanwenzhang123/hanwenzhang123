@@ -5,9 +5,9 @@
 -->
 - 🔭 I’m currently working on ... Software Development
 - 🌱 I’m currently learning ... JavaScript, React.js, Redux.js, Node.js, Express.js, Mongoose, Java, Python
-- 👯 I’m looking to collaborate on ... Projects and feedbacks
-- 🤔 I’m looking for help with ... Opportunities to grow and shine
-- 💬 Ask me about ... I am open to anything
+- 👯 I’m looking to collaborate on ... Projects and feedbacks, improve technical skills together!
+- 🤔 I’m looking for help with ... Opportunities to grow and shine!
+- 💬 Ask me about ... I am open to anything, career change, coding, fitness, food, anything!
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
 - ⚡ Fun fact: ... Working as a Software Engineer during weekdays, and working as a LMSW psychotherapist over the weekends.
