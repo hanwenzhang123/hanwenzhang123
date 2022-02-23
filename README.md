@@ -10,7 +10,7 @@
 - 💬 Ask me about ... I am open to anything
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... I was a Licensed Master Social Worker, then changed career to become a Software Engineer, and very happy about the decision!
+- ⚡ Fun fact: ... Working as a Software Engineer during weekdays, and working as a LMSW psychotherapist over the weekends.
 
 👩🏻‍WHO AM I?
 
