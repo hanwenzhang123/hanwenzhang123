@@ -18,7 +18,7 @@ I am Hanwen, a Software Engineer and Lifelong Learner looking to apply my creati
 
 💻 CURRENT WORK
 
-I am currently working as a Software Engineer Contractor at Apple, Inc. creating software solutions that offer the best user experience, my main skill is in Javascript and its front-end framework React.js building user interfaces, using Node.js, Express.js, and Mongoose handling the back-end APIs, and working on data using SQL and MongoDB.
+I am currently working as a Software Engineer at a healthcare company creating software solutions that offer the best user experience, my main skill is in Javascript and its front-end framework React.js building user interfaces, using Node.js, Express.js, and Mongoose handling the back-end APIs, and working on data using SQL and MongoDB.
 
 🖥 MY MISSION
 
