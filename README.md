@@ -10,7 +10,7 @@
 - 💬 Ask me about ... I am open to anything, career change, coding, fitness, food, anything!
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... Software Engineer during weekdays, LMSW psychotherapist over the weekends.
+- ⚡ Fun fact: ... Software Engineer but not the nerdy one lol
 
 👩🏻‍WHO AM I?
 
