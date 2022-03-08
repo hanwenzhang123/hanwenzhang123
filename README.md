@@ -10,7 +10,7 @@
 - 💬 Ask me about ... I am open to anything, career change, coding, fitness, food, anything!
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... Software Engineer but not the nerdy one lol
+- ⚡ Fun fact: ... INFJ. No fun, I am an boring, nerdy, ordinary person.
 
 👩🏻‍WHO AM I?
 
@@ -18,7 +18,7 @@ I am Hanwen, a Software Engineer and Lifelong Learner looking to apply my creati
 
 💻 CURRENT WORK
 
-I am currently working as a Software Engineer at a healthcare company creating software solutions that offer the best user experience, my main skill is in Javascript and its front-end framework React.js building user interfaces, using Node.js, Express.js, and Mongoose handling the back-end APIs, and working on data using SQL and MongoDB.
+I am currently working as a Software Engineer at a Healthcare company creating software solutions that offer the best user experience, my main skill is in Javascript and its front-end framework React.js building user interfaces, using Node.js, Express.js, and Mongoose handling the back-end APIs, and working on data using SQL and MongoDB.
 
 🖥 MY MISSION
 
