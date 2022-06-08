@@ -10,7 +10,7 @@
 - 💬 Ask me about ... I am open to anything, career change, coding, fitness, food, anything!
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... INFJ. No fun, I am an boring, nerdy, ordinary person.
+- ⚡ Fun fact: ... INFJ. Enjoy working out and foods outside of work. 
 
 👩🏻‍WHO AM I?
 
@@ -24,9 +24,9 @@ I am currently working as a Software Engineer at a Healthcare company creating s
 
 Transitioning my social science background to computer science technologies, I am dedicated to combining both passions in software development and human development to influence the intersection of social impact and technology through solving technical problems and improving user-friendly software products that make people’s lives better, easier, and fuller:
 
-➤ Master of Science in Software Development from Boston University'22 <br>
-➤ Master of Social Work in Social Work from New York University'20 <br>
-➤ Certificate of Computer Science from NYU Tandon School of Engineering'20
+➤ Master of Science in **Software Development** from Boston University'22 <br>
+➤ Certificate of **Computer Science** from NYU Tandon School of Engineering'20 <br>
+➤ Master of Social Work in Social Work from New York University'20
 
 📚 TECH STACK
 
