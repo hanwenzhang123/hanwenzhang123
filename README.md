@@ -12,7 +12,7 @@
 - 😄 Pronouns: ... She/Her/Hers
 - ⚡ Fun fact: ... INFJ. Enjoy working out and foods outside of work. 
 
-👩🏻‍WHO AM I?
+👩🏻‍ WHO AM I?
 
 I am Hanwen, a Software Engineer and Lifelong Learner looking to apply my creativity, analytical skills, problem-solving, critical thinking, and passion for innovation to the field of technology. 
 
