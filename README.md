@@ -10,7 +10,7 @@
 - 💬 Ask me about ... I am open to anything, career change, coding, fitness, food, anything!
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... INFJ. Enjoy working out and foods outside of work. 
+- ⚡ Fun fact: ... INFJ. Aries. Consistently feeling hungry. Eat a lot, workout a lot!
 
 👩🏻‍ WHO AM I?
 
