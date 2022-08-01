@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning ... JavaScript, React.js, Redux.js, Node.js, Express.js, Mongoose, Java, Python
 - 👯 I’m looking to collaborate on ... Projects and feedbacks, improve technical skills together!
 - 🤔 I’m looking for help with ... Opportunities to grow and shine!
-- 💬 Ask me about ... I am open to anything, career change, coding, fitness, food, anything!
+- 💬 Ask me about ... I am open to anything, coding, fitness, food, anything!
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... INFJ. Aries. Consistently feeling hungry. Eat a lot, workout a lot!
+- ⚡ Fun fact: ... INFJ. Aries.
 
 👩🏻‍ WHO AM I?
 
@@ -36,21 +36,21 @@ Transitioning my social science background to computer science technologies, I a
 ➤Web Development: <br>
 --- React.js, Redux.js, Node.js, Express.js, Mongoose, Database ORM <br>
 --- HTML, CSS, DOM, Bootstrap, EJS, Unistore, AJAX, JSON, Axios <br>
---- REST APIs, D3.js, RegEx, Jest, Enzyme
+--- REST APIs, GraphQL, D3.js, RegEx, Jest, Enzyme
 
 ➤SQL/NoSQL Database: <br>
 --- Oracle, MSSQL, PostgreSQL, MySQL, SQLite <br>
 --- MongoDB, Mongoose, Robo 3T, MongoDB Compass
 
 ➤Software Engineering: <br>
---- Git/GitHub, Command-Line, DevOps, Docker, AWS, UML, SDLC, CI/CD, UI/UX <br>
+--- Git/GitHub, CLI, DevOps, Docker, AWS, UML, SDLC, CI/CD, UI/UX <br>
 --- Software Architecture, Design, QA, Testing, Deployment, Agile/SCRUM
 
 ➤Development Tool:  <br>
---- Chrome Dev Tool, VS Code, IDE, Zapier, Postman, Trello, Heroku, LucidChart, Tableau
+--- Chrome Dev Tool, VS Code, Zapier, Postman, Heroku, LucidChart, Tableau
 
 ➤Software Platform: <br>
---- Word, Excel, PPT, Power BI, Salesforce, Citrix, Hubspot, Zoom/Team, SPSS, WordPress
+--- Word, Excel, PPT, Power BI, Salesforce, Citrix, Hubspot, Trello, Jira, SPSS, WordPress
 
 👍🏻 HIGHLIGHTS
 
