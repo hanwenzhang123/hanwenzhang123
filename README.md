@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hanwen Zhang</h1>
 <h3 align="center">A Full-Stack Software Engineer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hanwenzhang123" alt="hanwenzhang123" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/hanwenzhang123" target="blank"><img src="https://img.shields.io/twitter/follow/hanwenzhang123?logo=twitter&style=for-the-badge" alt="hanwenzhang123" /></a> </p>
 
 - 🔭 I’m currently working on **Web Applications**
 
@@ -38,19 +36,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanwenzhang123&show_icons=true&locale=en&layout=compact" alt="hanwenzhang123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanwenzhang123&show_icons=true&locale=en" alt="hanwenzhang123" /></p>
-
-<!--
-**hanwenzhang123/hanwenzhang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-- 🔭 I’m currently working on ... Software Development
-- 🌱 I’m currently learning ... JavaScript, React.js, Redux.js, Node.js, Express.js, Mongoose, Java, Python
-- 👯 I’m looking to collaborate on ... Projects and feedbacks, improve technical skills together!
-- 🤔 I’m looking for help with ... Opportunities to grow and shine!
-- 💬 Ask me about ... I am open to anything, coding, fitness, food, anything!
-- 📫 How to reach me: ... hz2070@nyu.edu
-- 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... INFJ. Aries.
 
 👩🏻‍ WHO AM I?
 
