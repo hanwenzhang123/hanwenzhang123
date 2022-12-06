@@ -5,7 +5,7 @@
 ### Hi there, I am Hanwen Zhang👋
 
 - 🔭 I’m currently working on ... Software Development
-- 🌱 I’m currently learning ... JavaScript, React.js, Redux.js, Node.js, Express.js, Mongoose, Java, Python
+- 🌱 I’m currently learning ... JavaScript, TypeScript, React.js, Redux.js, Node.js, Express.js, Mongoose, Java, Python
 - 👯 I’m looking to collaborate on ... Projects and feedbacks, improve technical skills together!
 - 🤔 I’m looking for help with ... Opportunities to grow and shine!
 - 💬 Ask me about ... I am open to anything, coding, fitness, food, anything!
@@ -19,7 +19,7 @@ I am Hanwen, a Software Engineer and Lifelong Learner looking to apply my creati
 
 💻 CURRENT WORK
 
-I am currently working as a Software Engineer at a Healthcare company creating software solutions that offer the best user experience, my main skill is in Javascript and its front-end framework React.js building user interfaces, using Node.js, Express.js, and Mongoose handling the back-end APIs, and working on data using SQL and MongoDB.
+I am currently working as a Software Engineer at a Healthcare company creating software solutions that offer the best user experience, my main skill is in Javascript/TypeScript and its front-end framework React.js building user interfaces, using Node.js, Express.js, and Mongoose handling the back-end APIs, and working on data using SQL and MongoDB.
 
 🖥 MY MISSION
 
