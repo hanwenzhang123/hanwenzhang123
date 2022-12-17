@@ -32,7 +32,7 @@ Transitioning my social science background to computer science technologies, I a
 📚 TECH STACK
 
 ➤Programming Languages: <br>
---- JavaScript, Java, Python, PHP, Ruby-on-Rails
+--- JavaScript, TypeScript, Java, Python, PHP, Ruby-on-Rails
 
 ➤Web Development: <br>
 --- React.js, Redux.js, Node.js, Express.js, Mongoose, Database ORM <br>
