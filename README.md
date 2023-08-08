@@ -4,9 +4,9 @@
 
 ### Hi there, I am Hanwen Zhang👋
 
-- 🔭 I’m currently working on ... Software Development
-- 🌱 I’m currently learning ... JavaScript, TypeScript, React.js, Redux.js, Node.js, Express.js, Mongoose, Java, Python
-- 👯 I’m looking to collaborate on ... Projects and feedbacks, improve technical skills together!
+- 🔭 I’m currently working on ... JavaScript, TypeScript, React, Redux, MERN, Ruby-on-Rails, SQL
+- 🌱 I’m currently learning ... Java(Spring Boot), Python(Django & Flask), Database ORM
+- 👯 I’m looking to collaborate on ... Projects and feedback, and improve technical skills together!
 - 🤔 I’m looking for help with ... Opportunities to grow and shine!
 - 💬 Ask me about ... I am open to anything, coding, fitness, food, anything!
 - 📫 How to reach me: ... hz2070@nyu.edu
@@ -15,11 +15,11 @@
 
 👩🏻‍ WHO AM I?
 
-I am Hanwen, a Software Engineer and Lifelong Learner looking to apply my creativity, analytical skills, problem-solving, critical thinking, and passion for innovation to the field of technology. 
+I am Hanwen, I love food, fitness, being in nature, exploring different cultures, fashion/music/movie, and trying to cook different kinds of food when I have free time. I am currently living in New York City. 
 
 💻 CURRENT WORK
 
-I am currently working as a Software Engineer at a Healthcare company creating software solutions that offer the best user experience, my main skill is in Javascript/TypeScript and its front-end framework React.js building user interfaces, using Node.js, Express.js, and Mongoose handling the back-end APIs, and working on data using SQL and MongoDB.
+I am currently working as a Full Stack Software Engineer at a Healthcare company creating software solutions that offer the best user experience involving all stages of SDLC in an Agile methodologies-based development.
 
 🖥 MY MISSION
 
@@ -32,26 +32,26 @@ Transitioning my social science background to computer science technologies, I a
 📚 TECH STACK
 
 ➤Programming Languages: <br>
---- JavaScript, TypeScript, Java, Python, PHP, Ruby-on-Rails
+--- JavaScript, TypeScript, Ruby-on-Rails, Java, Python
 
 ➤Web Development: <br>
---- React.js, Redux.js, Node.js, Express.js, Mongoose, Database ORM <br>
---- HTML, CSS, DOM, Bootstrap, EJS, Unistore, AJAX, JSON, Axios <br>
---- REST APIs, GraphQL, D3.js, RegEx, Jest, Enzyme
+--- React, Redux, Node, Express, Mongoose, Database ORM <br>
+--- HTML, CSS, TailWind, Bootstrap, AJAX, JSON, Axios <br>
+--- REST APIs, GraphQL, RegEx, Jest Testing, Enzyme
 
 ➤SQL/NoSQL Database: <br>
 --- Oracle, MSSQL, PostgreSQL, MySQL, SQLite <br>
---- MongoDB, Mongoose, Robo 3T, MongoDB Compass
+--- MongoDB, Mongoose, Firebase, Graphical User Interface
 
 ➤Software Engineering: <br>
---- Git/GitHub, CLI, DevOps, Docker, AWS, UML, SDLC, CI/CD, UI/UX <br>
---- Software Architecture, Design, QA, Testing, Deployment, Agile/SCRUM
+--- Git/GitHub, CLI, Docker, Jenkins, AWS, UML, SDLC, CI/CD, UI/UX <br>
+--- Software Architecture, Design, QA, Testing, Release, Agile/SCRUM
 
 ➤Development Tool:  <br>
---- Chrome Dev Tool, VS Code, Zapier, Postman, Heroku, LucidChart, Tableau
+--- Chrome Dev Tool, VS Code, Zapier, Postman, Heroku, LucidChart
 
 ➤Software Platform: <br>
---- Word, Excel, PPT, Power BI, Salesforce, Citrix, Hubspot, Trello, Jira, SPSS, WordPress
+--- Word, Excel, PowerPoint, Salesforce, WordPress, Jira, Figma
 
 👍🏻 HIGHLIGHTS
 
