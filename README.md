@@ -4,8 +4,8 @@
 
 ### Hi there, I am Hanwen Zhang👋
 
-- 🔭 I’m currently working on ... JavaScript, TypeScript, React, Redux, MERN, Ruby-on-Rails, SQL
-- 🌱 I’m currently learning ... Java(Spring Boot), Python(Django & Flask), Database ORM
+- 🔭 I’m currently working on ... JavaScript, TypeScript, React, Redux, MERN, Ruby-on-Rails, SQL, Database ORM
+- 🌱 I’m currently learning ... Java(Spring Boot), Data Structures and Algorithms, and Low-Level Computer Science Topics (Operation Systems, Networking, etc)
 - 👯 I’m looking to collaborate on ... Projects and feedback, and improve technical skills together!
 - 🤔 I’m looking for help with ... Opportunities to grow and shine!
 - 💬 Ask me about ... I am open to anything, coding, fitness, food, anything!
