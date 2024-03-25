@@ -5,7 +5,7 @@
 ### Hi there, I am Hanwen Zhang👋
 
 - 🔭 I’m currently working on ... JavaScript, TypeScript, React, Redux, MERN, Ruby-on-Rails, SQL, Database ORM
-- 🌱 I’m currently learning ... Java(Spring Boot), Data Structures and Algorithms, and Low-Level Computer Science Topics (Operation Systems, Networking, etc)
+- 🌱 I’m currently learning ... Java(Spring Boot), Docker, Data Structures and Algorithms, and Computer Science Topics (Operation Systems, Networking, etc)
 - 👯 I’m looking to collaborate on ... Projects and feedback, and improve technical skills together!
 - 🤔 I’m looking for help with ... Opportunities to grow and shine!
 - 💬 Ask me about ... I am open to anything, coding, fitness, food, anything!
@@ -15,15 +15,15 @@
 
 👩🏻‍ WHO AM I?
 
-I am Hanwen, I love food, fitness, being in nature, exploring different cultures, fashion/music/movie, and trying to cook different kinds of food when I have free time. I am currently living in New York City. 
+I am Hanwen, currently living in New York City, I love food, fitness, being in nature, exploring different cultures, listening to music and watching movies, and cooking different kinds of food when I have free time. 
 
 💻 CURRENT WORK
 
-I am currently working as a Full Stack Software Engineer at a Healthcare company creating software solutions that offer the best user experience involving all stages of SDLC in an Agile methodologies-based development.
+I am working as a Full Stack Software Engineer at a Healthcare company creating software solutions that offer the best user experience involving all stages of SDLC in an Agile methodologies-based development.
 
 🖥 MY MISSION
 
-Transitioning my social science background to computer science technologies, I am dedicated to combining both passions in software development and human development to influence the intersection of social impact and technology through solving technical problems and improving user-friendly software products that make people’s lives better, easier, and fuller:
+Transitioning my social science background to computer science technologies, I am dedicated to combining both passions in software development and human development to influence the intersection of social impact and technology through solving technical problems and improving user-friendly software products that make people’s lives better, and easier, and fuller:
 
 ➤ Master of Science in **Software Development** from Boston University'22 <br>
 ➤ Certificate of **Computer Science** from NYU Tandon School of Engineering'20 <br>
@@ -35,20 +35,17 @@ Transitioning my social science background to computer science technologies, I a
 --- JavaScript, TypeScript, Ruby-on-Rails, Java, Python
 
 ➤Web Development: <br>
---- React, Redux, Node, Express, Mongoose, Database ORM <br>
+--- React, Redux, Node, Express, Database ORM <br>
 --- HTML, CSS, TailWind, Bootstrap, AJAX, JSON, Axios <br>
---- REST APIs, GraphQL, RegEx, Jest Testing, Enzyme
-
-➤SQL/NoSQL Database: <br>
---- Oracle, MSSQL, PostgreSQL, MySQL, SQLite <br>
---- MongoDB, Mongoose, Firebase, Graphical User Interface
+--- SQL/NoSQL, MongoDB/Mongoose, SQLite, MySQL, PostgreSQL <br>
+--- REST APIs, GraphQL, RegEx, Jest Testing, Enzyme, RSpec
 
 ➤Software Engineering: <br>
 --- Git/GitHub, CLI, Docker, Jenkins, AWS, UML, SDLC, CI/CD, UI/UX <br>
 --- Software Architecture, Design, QA, Testing, Release, Agile/SCRUM
 
 ➤Development Tool:  <br>
---- Chrome Dev Tool, VS Code, Zapier, Postman, Heroku, LucidChart
+--- Chrome Dev Tool, VS Code, DB GUI, Zapier, Postman, Heroku, LucidChart
 
 ➤Software Platform: <br>
 --- Word, Excel, PowerPoint, Salesforce, WordPress, Jira, Figma
