@@ -4,18 +4,18 @@
 
 ### Hi there, I am Hanwen Zhang👋
 
-- 🔭 I’m currently working on ... JavaScript, TypeScript, React, Redux, MERN, Ruby-on-Rails, SQL, Database ORM
-- 🌱 I’m currently learning ... Java(Spring Boot), Docker, Data Structures and Algorithms, and Computer Science Topics (Operation Systems, Networking, etc)
+- 🔭 I’m currently working on ... JavaScript, TypeScript, React, Redux, MERN, Ruby-on-Rails, Java, SQL, Database ORM
+- 🌱 I’m currently learning ... Data Structures and Algorithms, and Computer Science Topics (Operation Systems, Networking, etc)
 - 👯 I’m looking to collaborate on ... Projects and feedback, and improve technical skills together!
 - 🤔 I’m looking for help with ... Opportunities to grow and shine!
 - 💬 Ask me about ... I am open to anything, coding, fitness, food, anything!
 - 📫 How to reach me: ... hz2070@nyu.edu
 - 😄 Pronouns: ... She/Her/Hers
-- ⚡ Fun fact: ... INFJ. Aries.
+- ⚡ Fun fact: ... INTJ. Aries.
 
 👩🏻‍ WHO AM I?
 
-I am Hanwen, currently living in New York City, I love food, fitness, being in nature, exploring different cultures, listening to music and watching movies, and cooking different kinds of food when I have free time. 
+I am Hanwen, currently living in New York City, I love food, fitness, being in nature, exploring different cultures, listening to music, watching movies, and cooking different kinds of food when I have free time. 
 
 💻 CURRENT WORK
 
